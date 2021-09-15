@@ -1,4 +1,4 @@
-# Tug Of War Application 
+# Tug Of War ame
 
 ### Requirements 
 This code requires the [Educational BoosterPack MKII (BOOSTXL-EDUMKII)](http://www.ti.com/tool/BOOSTXL-EDUMKII) paired with the MSP-EXP432P401R LaunchPad. The code has been written In C and could be flashed onto your board via the code composer studio
